@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/twbs/bootstrap-sass"
+    "url": "git://github.com/ageras-marketing/bootstrap-ageras"
   },
   "keywords": [
     "bootstrap",
@@ -28,9 +28,6 @@
     "Gleb Mazovetskiy"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/twbs/bootstrap-sass/issues"
-  },
   "devDependencies": {
     "node-sass": "^3.8.0",
     "mincer": "~1.4.0",
